@@ -20,3 +20,9 @@ Wen you want to work on your product `cd` into in and just run `gulp`.
 
 
 ~Have fun
+
+## Uses
+* [Foto op aluminium](https://www.aluminiumland.nl)
+* [Foto op glas](https://www.fotoopglasland.nl)
+* [Tuinposter](https://www.tuinposterland.nl)
+* [foto op canvas](https://www.canvasland.nl)

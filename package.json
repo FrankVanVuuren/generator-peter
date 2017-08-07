@@ -1,6 +1,6 @@
 {
   "name": "generator-peter",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Awesome Stylus workflow Yeoman generator",
   "license": "MIT",
   "main": "app/index.js",
